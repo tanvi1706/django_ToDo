@@ -25,7 +25,7 @@ SECRET_KEY = '=au1v%31q)f&$=g*ra5o25)8bur9^p6p%hl-_1o=7kfes4zv*c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://ancient-anchorage-75728.herokuapp.com/']
 
 
 # Application definition
